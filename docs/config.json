@@ -39,6 +39,13 @@
           "children": [
             {
               "type": "link",
+              "slug": "features/zorin",
+              "title": "Zorin",
+              "id": "sx5t5c6hc",
+              "children": []
+            },
+            {
+              "type": "link",
               "slug": "features/Arch",
               "title": "Arch",
               "id": "9",
