@@ -2,6 +2,13 @@
   "config": [
     {
       "type": "link",
+      "slug": "o",
+      "title": "O",
+      "id": "xcysd0j8c",
+      "children": []
+    },
+    {
+      "type": "link",
       "slug": "getting-started/lala",
       "title": "P",
       "children": [
