@@ -2,7 +2,7 @@
   "config": [
     {
       "type": "link",
-      "slug": "getting-started",
+      "slug": "getting-started/lala",
       "title": "P",
       "children": [
         {
@@ -11,13 +11,6 @@
           "title": "lala",
           "id": "v4upck8zt",
           "children": []
-        },
-        {
-          "type": "link",
-          "slug": "getting-started",
-          "title": "new doc page",
-          "children": [],
-          "id": "3ei218af2"
         }
       ],
       "id": "2acs6sgcu"
