@@ -91,15 +91,7 @@
       "title": "Getting Started",
       "position": 0,
       "id": "1",
-      "children": [
-        {
-          "type": "link",
-          "slug": "getting-started/lala",
-          "title": "lala",
-          "id": "v4upck8zt",
-          "children": []
-        }
-      ]
+      "children": []
     },
     {
       "type": "link",
