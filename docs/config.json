@@ -7,6 +7,13 @@
       "children": [
         {
           "type": "link",
+          "slug": "getting-started/lala",
+          "title": "lala",
+          "id": "v4upck8zt",
+          "children": []
+        },
+        {
+          "type": "link",
           "slug": "getting-started",
           "title": "new doc page",
           "children": [],
@@ -91,7 +98,15 @@
       "title": "Getting Started",
       "position": 0,
       "id": "1",
-      "children": []
+      "children": [
+        {
+          "type": "link",
+          "slug": "getting-started/lala",
+          "title": "lala",
+          "id": "v4upck8zt",
+          "children": []
+        }
+      ]
     },
     {
       "type": "link",
